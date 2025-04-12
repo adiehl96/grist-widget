@@ -54,3 +54,6 @@ or run it in development mode with automatic reload:
 yarn install
 yarn run grist:dev
 ```
+
+Quick Use:
+```https://gristlabs.github.io/grist-widget/custom-widget-builder```
