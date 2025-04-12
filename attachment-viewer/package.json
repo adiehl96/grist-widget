@@ -1,0 +1,22 @@
+{
+  "name": "@adiehl96/attachment-viewer",
+  "description": "Simple attachment viewer for images stored as attachments.",
+  "homePage": "https://github.com/adiehl96/grist-widget",
+  "version": "0.0.1",
+  "grist": {
+    "name": "Attachment Viewer",
+    "url": "https://adiehl96.github.io/grist-widget/attachment-viewer/index.html",
+    "widgetId": "@adiehl96/attachment-viewer",
+    "published": true,
+    "accessLevel": "read table",
+    "renderAfterReady": true,
+    "description": "View images stored as attachments.",
+    "authors": [
+      {
+        "name": "Arne Diehl",
+        "url": "https://github.com/adiehl96"
+      }
+    ],
+    "isGristLabsMaintained": false
+  }
+}
