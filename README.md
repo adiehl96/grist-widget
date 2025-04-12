@@ -56,4 +56,6 @@ yarn run grist:dev
 ```
 
 Quick Use:
-```https://gristlabs.github.io/grist-widget/custom-widget-builder```
+```txt
+https://gristlabs.github.io/grist-widget/custom-widget-builder
+```
